@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_primary">#FF080B14</color>
+    <color name="bg_surface">#FF10162A</color>
+    <color name="bg_surface_variant">#FF171F38</color>
+    <color name="bg_elevated">#FF1E2848</color>
+    <color name="glass_card">#1AFFFFFF</color>
+    <color name="glass_stroke">#22FFFFFF</color>
+    <color name="glass_overlay">#66000000</color>
+    <color name="accent_blue">#FF4F7FFF</color>
+    <color name="accent_blue_soft">#FF7DA2FF</color>
+    <color name="accent_violet">#FFA855F7</color>
+    <color name="accent_violet_soft">#FFC688FF</color>
+    <color name="accent_gold">#FFFFB020</color>
+    <color name="accent_gold_soft">#FFFFCB66</color>
+    <color name="accent_blue_10">#1A4F7FFF</color>
+    <color name="text_primary">#FFF3F5FC</color>
+    <color name="text_secondary">#FFB7BDD4</color>
+    <color name="text_tertiary">#FF7C84A3</color>
+    <color name="heart_active">#FFFF4D6D</color>
+    <color name="chip_unselected">#FF171F38</color>
+    <color name="scrim">#99000000</color>
+    <color name="stat_pill">#1A4F7FFF</color>
+</resources>

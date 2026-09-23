@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Internal cache dir used to stage images for sharing via FileProvider -->
+    <cache-path
+        name="shared_images"
+        path="images/" />
+    <external-cache-path
+        name="external_shared_images"
+        path="images/" />
+</paths>
